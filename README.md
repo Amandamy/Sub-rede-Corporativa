@@ -27,7 +27,7 @@ Exemplo de comando executado durante o Health Check para validar portas ativas:
 nc -zv 10.0.0.5 3306
 
 
-========================================
+======================================
    INICIANDO HEALTH CHECK - AMBIENTE DE STAGING   
 ==================================================
 Data/Hora: Ter Oct 27 10:00:00 BRT 2026
@@ -36,6 +36,6 @@ Data/Hora: Ter Oct 27 10:00:00 BRT 2026
 [TESTE] Acesso ao Banco de Dados (10.0.0.5:3306)... SUCCESS (PASS)
 [TESTE] Firewall: Bloqueio da Rede ATM (172.16.0.10)... SUCCESS - Acesso Bloqueado pelo Firewall (PASS)
 
-========================================
+======================================
    HEALTH CHECK CONCLUÍDO                         
-==================================================
+===============================================
