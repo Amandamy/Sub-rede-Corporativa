@@ -25,7 +25,6 @@ Exemplo de comando executado durante o Health Check para validar portas ativas:
 '''bash
 # Teste de conectividade com a porta do servidor de banco de dados
 nc -zv 10.0.0.5 3306
-'''
 
 ==================================================
    INICIANDO HEALTH CHECK - AMBIENTE DE STAGING   
