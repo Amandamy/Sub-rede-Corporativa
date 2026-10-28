@@ -33,7 +33,9 @@ nc -zv 10.0.0.5 3306
 Data/Hora: Ter Oct 27 10:00:00 BRT 2026
 
 [TESTE] Conexão com Gateway (192.168.10.1)... SUCCESS (PASS)
+
 [TESTE] Acesso ao Banco de Dados (10.0.0.5:3306)... SUCCESS (PASS)
+
 [TESTE] Firewall: Bloqueio da Rede ATM (172.16.0.10)... SUCCESS - Acesso Bloqueado pelo Firewall (PASS)
 
 =====================================
